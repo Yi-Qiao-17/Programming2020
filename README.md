@@ -1,4 +1,17 @@
 # Programming2020
+程式設計（二）<br><br>
+授課教師：葉奕成<br><br>
+|課程|<br>
+1.程式設計基本技巧回顧<br>
+2.物件導向程式設計: 物件與類別<br>
+3.運算子多載<br>
+4.物件導向程式設計: 繼承<br>
+5.物件導向程式設計: 多形<br>
+6.樣板<br>
+7.串流輸入/輸出<br>
+8.例外處理<br>
+9.程式設計延伸議題討論<br><br>
+|作業|<br>
 | BIG Fibonacci |<br>
 Require to build a class BigNUM to handle the big number and help driver program to calculate the "Successione di Fibonacci".<br>
 | BigNUM |<br>
